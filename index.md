@@ -1,2 +1,1 @@
-<iframe width="896" height="504" src="http://nbastreams123.xyz/nba/chi/1.php" frameborder="0" allowfullscreen></iframe>
-</br>
+<video data-html5-video="" preload="metadata" src="blob:http://nbastreams123.xyz/bd1d796f-aa17-46a5-a2b8-11b1b037facb"><style class="clappr-style">[data-html5-video]{position:absolute;height:100%;width:100%;display:block}</style></video>
