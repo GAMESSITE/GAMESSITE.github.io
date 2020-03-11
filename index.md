@@ -1,7 +1,5 @@
 <html>
-
-<!-- Mirrored from nba-streams.xyz/stream/chicago-bulls-live-stream/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 10 Mar 2020 23:57:06 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <body>
 <html>
 <head>
